@@ -1,0 +1,7 @@
+trim.exe
+
+http://blog.dev-scene.com/ratx/archives/category/trim
+
+7z.exe
+
+http://7zip.org
